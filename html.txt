@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=\, initial-scale=1.0" />
+<title>Home DMART</title>
+<link rel="stylesheet" href="practice/p1.css" />
+<link
+
+rel="stylesheet"
+
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/> </head>
+
+<body>
+
+<div> 
+    <header>
+
+<div>
+
+<a href="class21.html">
+    <img src="img/index.png"  alt="DMART"/>
+</a>
+
+</div>
+
+<div>
+
+<ul class="menubar-style">
+
+<div class="a-style">
+
+<li><a href="#" >About us</a></li>
+<br/>
+<li><a href="#">categories</a></li>
+
+<li><a href="#">social outreach</a></li>
+
+<li><a href="#">partern with us</a></li>
+
+<li><a href="#">careers</a></li>
+
+<div style="display:flex; top: 0px;">
+    <li class="sublist-style">
+  <a href="#">
+         <i class="fa-brands fa-square-facebook i-style"></i  ></a>  </li>
+        
+        <li class="sublist-style"> <a href="#"> 
+            <i class="fa-brands fa-linkedin i-style"></i></a>
+        </li>
+         </div> 
+</div>
+    </ul>
+
+</div> 
+</header>
+</div>
+
+<section>
+
+<marquee scrollamount="12">
+    Dear Customer Our offers/promotions and Customer care contact
+
+details are published on our webiste(www.dmartindia.com)</marquee>
+
+</section>
+
+<section>
+
+<img src="img/home-banner.644eeaa9.jpg" class="img1-style" />
+
+</section>
+
+<section class="title-style">
+
+<span class="span-style">quick links</span>
+</section>
+
+<section class="sec1-style">
+
+<div>
+
+<img src="img/photo-1514792368985-f80e9d482a02.c96767e9.jpg" class="img2-style" />
+
+</div>
+
+<div class="divi-style">
+
+<p class="p-style">New Suppliers</p>
+
+<p>Would you like to showcase your products to us?</p>
+
+<button type="submit"  class="btn-style">online appointment</button
+>&nbsp;&nbsp;&nbsp;
+
+<button type="submit"   class="btn-style">vendor registration</button>
+
+</div>
+
+</section>
+<section class="sec2-style">
+
+    <div>
+    
+    <p class="p-style">Landlords</p>
+    
+    <p>Do you have a property to rent / sell?</p>
+    
+    <button type="submit"  class="btn-style">register as landlord</button
+    
+    >&nbsp;&nbsp;&nbsp;
+    
+    </div>
+    
+    <div>
+    
+    <img src="https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg" class="img3-style" />
+    
+    </div>
+    
+    </section>
+    
+    <section class="sec1-style">
+    
+    <div>
+    <img src="https://www.dmartindia.com/static/media/photo-1586281380349-632531db7ed4.d0c6ae2b.jpg" class="img2-style" />
+
+</div>
+
+<div class="div1-style">
+
+<p class="p-style">Job Aspirant</p>
+
+<p>Interested in joining us?</p>
+
+<button type="submit" class="btn-style">apply now</button
+
+>&nbsp;&nbsp;&nbsp;
+
+</div>
+
+</section>
+
+<section class="sec2-style">
+
+<div>
+    <p class="p-style">Better Schools, Brighter Futures!</p>
+
+<p>Better Schools, Brighter Futurel </p>
+
+<button type="submit" class="btn-style">read more</button >&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<div>
+
+<img src="https://www.dmartindia.com/static/media/photo-1531206715517-5c0ba140b2b8.69577f04.jpg" class="img3-style" />
+
+</div>
+
+</section>
+
+<section class="title-style" style="margin-top: 3rem">
+
+<span class="span-style">new stories</span>
+</section>
+
+<div style="display: flex">
+
+<section class="sec3-style">
+
+<p class="p-style">Narsingi</p>
+
+<p>Hyderabad, Telangana</p>
+
+<img src="https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg" class="sec3-img-style" />
+
+</section>
+
+<section class="sec3-style">
+
+<p class="p-style">Narsingi</p> <p>Hyderabad, Telangana</p>
+
+<img src="https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg" class="sec3-img-style" />
+
+</section>
+
+<section class="sec3-style">
+    <p class="p-style">Narsingi</p> <p>Hyderabad, Telangana</p>
+
+<img src="https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg" class="sec3-img-style" />
+
+</section>
+
+</div>
+
+<section class="title-style" style="margin-top: 3rem"> <span class="span-style">store categories</span>
+
+</section>
+
+<div>
+
+<section class="sec4-style">
+
+<img src="https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg" class="categories-img-style" />
+<img src="https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg" class="categories-img-style" />
+
+<img src="https://www.dmartindia.com/static/media/DAIRY%20&%20FROZEN.41fe6246.jpg"class="categories-img-style"/>
+
+
+<img src="https://www.dmartindia.com/static/media/DMART%20BRANDS.d0b4c9ca.jpg" class="categories-img-style" />
+
+</section>
+
+<section class="sec4-style">
+
+<p class="categories-item1-style">grocery & staples</p>
+
+<p class="categories-item2-style">daily essentials</p>
+ <p class="categories-item3-style">dairy & frozen</p>
+
+<p class="categories-item4-style">dmart brands</p>
+</section>
+</div>
+<br/><br/>
+<section class="footer-style">
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9364102184168!2d77.57492067358909!3d12.975919014786578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1714aa453629%3A0x4936b236c35df918!2sDMart%20(Bajaj%20Mall)!5e0!3m2!1sen!2sin!4v1723379878528!5m2!1sen!2sin"
+     width="1220" height="350" style="border:0;" a
+     llowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+     <br/><br/>
+
+
+<div
+
+style="display: flex; justify-content: space-around"
+
+class="iframe-style">
+
+<p>Sitemap</p>
+
+<p>Privacy Policy</p>
+
+<p>Terms of Use</p>
+
+<p>Investor Relations</p>
+</div>
+
+</section>
+
+</body>
+
+</html>
+
+
+        
+
